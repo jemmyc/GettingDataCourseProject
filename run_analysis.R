@@ -1,6 +1,13 @@
 run_analysis <- function() {
+    ## This script produces tidy versions of the UCI HAR dataset using the
+    ## following steps and intermediate tidy dataset.
+    ## 1. Merges the training and the test sets to create one data set.
+    ## 2. Extracts only the measurements on the mean and standard deviation
+    ##    for each measurement. 
+    ## 3. Uses descriptive activity names to name the activities in the data set
     ## 4. Appropriately labels the data set with descriptive variable names.
-    ## 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+    ## 5. Creates a second, independent tidy data set with the average of each
+    ##    variable for each activity and each subject.
 
     ## Each row in the 3 files corresponds with 1 observation,
     ## so just combine the columns from each file.
