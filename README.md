@@ -1,7 +1,7 @@
 GettingDataCourseProject
 ========================
 
-Published data from the Human Activity Recognition Using Smartphones Dataset study [1] were recombined, extracted and summarized into a tidy dataset using the procedures outlined below. The original study recorded accelerometer and gyroscope signals from a smartphone worn by volunteers perfoming 6 different activities. A total of 561 features from the signals were measured. A full description is available at the site where the data was obtained:
+Published data from the Human Activity Recognition Using Smartphones study [1] were recombined, extracted and summarized into a tidy dataset using the procedures outlined below. The original study recorded accelerometer and gyroscope signals from a smartphone worn by volunteers perfoming 6 different activities. A total of 561 features from the signals were measured. A full description is available at the site where the data was obtained:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
